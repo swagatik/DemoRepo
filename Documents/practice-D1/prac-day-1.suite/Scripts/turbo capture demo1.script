@@ -1,0 +1,14 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2020-05-18 15:44:48
+  From session:  turbo capture demo1
+  Captured on:  2020-05-18 15:41:46
+  From server:  102021212
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "PTypeheretosearch"
+TypeText "run",Return
+TypeText "notepad",Return
+TypeText "hi welcome to eggplant>>>>>"
+Click "image0002"
+Click "image0003"
+KeyDown OptionKey
